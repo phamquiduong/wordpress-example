@@ -1,0 +1,8 @@
+# Database folder
+database/
+
+# Environment file
+docker/.env
+
+# Wordpress folder
+src/html/
