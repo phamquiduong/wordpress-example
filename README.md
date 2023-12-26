@@ -25,7 +25,11 @@
 > - Change some environment variables
 
 ## Configuration WorkPress
-> - You can configure WorkPress in `php.conf.ini` file
+> - Copy config file
+>   ```bash
+>   cp php.conf.ini.example php.conf.ini
+>   ```
+> - Change some config
 
 ## Build and start docker-compose
 > - Change directory to `docker` folder

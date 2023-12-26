@@ -1,8 +1,5 @@
-# Database folder
-database/
-
 # Environment file
-docker/.env
+.env
 
-# Wordpress folder
-src/html/
+# Wordpress configuration
+php.conf.ini
