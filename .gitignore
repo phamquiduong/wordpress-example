@@ -3,3 +3,9 @@
 
 # Wordpress configuration
 php.conf.ini
+
+# mysql
+/mysql/
+
+# wp-content
+/wp-content/
